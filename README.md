@@ -1,70 +1,36 @@
 # Hi, I'm Mahmoud 👋
 
-🚀 **Full-Stack Python Web Developer** with 3+ years of experience building scalable, real-time web applications.  
-🎓 Biomedical Engineering student @ Cairo University  
-💡 Passionate about AI-powered apps & complex system design.
+I'm a **Full-Stack Developer** focused on building useful products with Python, TypeScript, React, and modern backend systems.
 
----
+I build:
 
-## 🧠 What I Do
-- Build **Full-Stack web applications** using Python & modern JS frameworks
-- Design **real-time systems** (chat, live auctions, video calls)
-- Develop **REST APIs** & scalable backend architectures
-- Integrate **payments, streaming, and third-party APIs**
+- Full-stack web and mobile applications
+- REST APIs and real-time features
+- Multi-tenant systems with role-based administration
+- AI-powered and biomedical engineering projects
 
----
+## Featured project
 
-## 🛠 Tech Stack
+### [Qabeela](https://github.com/MahmoudBL83/qabeelah)
 
-### Backend
-- Python, Flask, ASP.NET Core, Node.js  
-- REST APIs, Socket.IO, WebRTC  
+A full-stack family community platform with:
 
-### Frontend
-- HTML, CSS, Bootstrap  
-- JavaScript, TypeScript  
-- React, Next.js  
+- Interactive family trees and member profiles
+- Branch administration and approval workflows
+- Events, notifications, messaging, and lineage requests
+- React web app, Expo mobile app, and Express/MongoDB API
+- Tenant-aware architecture with optional database isolation
 
-### Databases
-- MySQL, PostgreSQL, Redis  
+## Tech
 
-### Tools & Cloud
-- Git, CI/CD  
-- AWS, Vercel, Railway  
-- Stripe, Mux  
+**Backend:** Python, Flask, Node.js, Express, REST APIs, Socket.IO  
+**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS  
+**Mobile:** React Native, Expo  
+**Data:** MongoDB, PostgreSQL, MySQL, Redis  
+**Cloud and tools:** Git, CI/CD, AWS, Vercel, Railway, Stripe
 
----
+## Connect
 
-## 💼 Featured Projects
-
-### 🔹 Real Estate Auction Management System
-- Real-time bidding using Socket.IO  
-- Live auction dashboards & admin panel  
-- Interactive map editor (polygon drawing)  
-
-**Tech:** Flask, MySQL, Socket.IO, JS  
-
----
-
-### 🔹 Study Buddy (Prime Platform)
-- Tinder-style matching system for learners  
-- Real-time chat & video sessions  
-- Creator dashboards & Stripe payouts  
-
-**Tech:** Next.js, React, Prisma, Stripe, WebRTC  
-
----
-
-### 🔹 Crypto Trading Multi-Exchange Platform
-- Automated trading bots  
-- Multi-exchange integration  
-- Real-time market data  
-
-**Tech:** Python, Flask, CCXT, WebSockets  
-
----
-
-## 📫 Contact Me
-- 💼 LinkedIn: [linkedin.com/in/mahmoud-bahaa-482117228](https://www.linkedin.com/in/mahmoud-bahaa-482117228/)
-- 🌐 Portfolio: https://mostaql.com/u/MahmoudBL/portfolio
-- ✉️ Email: 2odabahaa@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-bahaa-482117228/)
+- [Portfolio](https://mostaql.com/u/MahmoudBL/portfolio)
+- Email: 2odabahaa@gmail.com
