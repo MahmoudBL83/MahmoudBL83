@@ -9,7 +9,11 @@ I build:
 - Multi-tenant systems with role-based administration
 - AI-powered and biomedical engineering projects
 
-## Featured project
+## Featured projects
+
+### [Intilaqa / انطلاقة](https://github.com/MahmoudBL83/intilaqa)
+
+A bilingual HRMS platform for admin, client, company, and employee workflows, built with Next.js, Prisma, PostgreSQL, NextAuth, and `next-intl`. It includes Arabic RTL and English LTR dashboards, attendance, requests, documents, payroll, tasks, notifications, reports, and integration-ready service boundaries.
 
 ### [Qabeela](https://github.com/MahmoudBL83/qabeelah)
 
