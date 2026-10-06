@@ -1,12 +1,13 @@
 # Hi, I'm Mahmoud 👋
 
-I'm a **Full-Stack Developer** focused on building useful products with Python, TypeScript, React, and modern backend systems.
+I'm a **Full-Stack Developer** building and deploying products with Python (Django and Flask), TypeScript, React, and cloud platforms including AWS.
 
 I build:
 
 - Full-stack web and mobile applications
 - REST APIs and real-time features
 - Multi-tenant systems with role-based administration
+- Cloud deployments and CI/CD workflows
 - AI-powered and biomedical engineering projects
 
 ## Featured projects
@@ -45,11 +46,12 @@ A full-stack family community platform with:
 
 ## Tech
 
-**Backend:** Python, Flask, Node.js, Express, REST APIs, Socket.IO  
+**Backend:** Python, Django, Flask, Node.js, Express, REST APIs, Socket.IO  
 **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS  
 **Mobile:** React Native, Expo  
 **Data:** MongoDB, PostgreSQL, MySQL, Redis  
-**Cloud and tools:** Git, CI/CD, AWS, Vercel, Railway, Stripe
+**Cloud & deployment:** AWS, Vercel, Railway, CI/CD  
+**Tools & integrations:** Git, Stripe
 
 ## Connect
 
