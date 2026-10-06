@@ -46,12 +46,12 @@ A full-stack family community platform with:
 
 ## Tech
 
-**Backend:** Python, Django, Flask, Node.js, Express, REST APIs, Socket.IO  
-**Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS  
-**Mobile:** React Native, Expo  
-**Data:** MongoDB, PostgreSQL, MySQL, Redis  
-**Cloud & deployment:** AWS, Vercel, Railway, CI/CD  
-**Tools & integrations:** Git, Stripe
+- **Backend:** Python, Django, Flask, Node.js, Express, REST APIs, Socket.IO
+- **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS
+- **Mobile:** React Native, Expo
+- **Data:** MongoDB, PostgreSQL, MySQL, Redis
+- **Cloud & deployment:** AWS, Vercel, Railway, CI/CD
+- **Tools & integrations:** Git, Stripe
 
 ## Connect
 
