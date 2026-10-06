@@ -11,6 +11,14 @@ I build:
 
 ## Featured projects
 
+### [Assal Building — Client Website](https://assalbuilding.com/)
+
+A website for a Saudi construction company, showcasing its services and projects with a multi-step quote request flow. Client project; source code is private.
+
+### [Tamimi Energy — Risk Data Management System](https://rms.tamimienergy.com/)
+
+A risk data management application built for a client. Source code is private; the link opens the live application.
+
 ### [Prime](https://github.com/MahmoudBL83/prime)
 
 [Live app](https://prime-six-self.vercel.app)
