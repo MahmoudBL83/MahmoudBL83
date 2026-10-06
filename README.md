@@ -15,9 +15,9 @@ I build:
 
 A website for a Saudi construction company, showcasing its services and projects with a multi-step quote request flow. Client project; source code is private.
 
-### [Tamimi Energy — Risk Management System](https://rms.tamimienergy.com/)
+### [Tamimi Energy — Risk Management System (RMS)](https://rms.tamimienergy.com/)
 
-A risk management system I built and delivered to Tamimi Energy. The link opens the live application; its source code is private.
+An enterprise risk management platform I built and delivered to Tamimi Energy. It brings risk registers, automated scoring and prioritization, treatment tracking, role-based dashboards, audit trails, and executive reports into one system. Built with Next.js, TypeScript, Prisma, and PostgreSQL; source code is private.
 
 ### [Prime](https://github.com/MahmoudBL83/prime)
 
