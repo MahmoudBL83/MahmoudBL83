@@ -44,6 +44,12 @@ A full-stack family community platform with:
 - React web app, Expo mobile app, and Express/MongoDB API
 - Tenant-aware architecture with optional database isolation
 
+### [PulseTrade](https://github.com/MahmoudBL83/PulseTrade)
+
+[Live app](https://pulse-trade-zeta.vercel.app)
+
+An earlier Python and Flask crypto trading project with a market dashboard, DCA bots, SmartTrade take-profit/stop-loss workflows, multi-exchange connectivity via CCXT, and TradingView signal support. Recently refreshed for public release and deployment.
+
 ## Tech
 
 - **Backend:** Python, Django, Flask, Node.js, Express, REST APIs, Socket.IO
