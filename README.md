@@ -11,6 +11,10 @@ I build:
 
 ## Featured projects
 
+### [Prime](https://github.com/MahmoudBL83/prime)
+
+A bilingual learning platform with courses, creator and mentor workspaces, quizzes, study groups, messaging, and learner progress. Built with Next.js, TypeScript, Prisma, and PostgreSQL, with optional payment and video integrations.
+
 ### [Intilaqa / انطلاقة](https://github.com/MahmoudBL83/intilaqa)
 
 A bilingual HRMS platform for admin, client, company, and employee workflows, built with Next.js, Prisma, PostgreSQL, NextAuth, and `next-intl`. It includes Arabic RTL and English LTR dashboards, attendance, requests, documents, payroll, tasks, notifications, reports, and integration-ready service boundaries.
